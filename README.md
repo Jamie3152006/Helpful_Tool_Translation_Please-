@@ -8,3 +8,9 @@ Due to time constraints, I had to simplify the project a lot to get it to a work
 
 ## Process of Making:
 I used manifest.json and then created a separate json file that stores all the information of the pop up, such as the definition, the translation in Mandarin and then how it would be used in a sentence. Within the javaScript file, I essentially coded it where it scans for and highlights the keywords I set within the json file, and then it creates a pop up, and using the getElementByID, I was able to pull all the information over from the json file. It also enables it to run as a chrome extension, with the specifications in the manifest.json file. I then used CSS to style the specific elements and make the pop up feel more personally me. 
+
+
+## How to Download:
+To download this web extension, which is only Chrome compatiable right now, save the files onto your desktop, then open Chrome and navigate to their extensions page and select manage extensions. Toggle on developer mode, and when clicking on Load Unpack, navigate and select the folder that holds all the files. 
+
+**note: this is a very hyper specific version of this tool, not super applicable to all currently**
