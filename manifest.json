@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Translation Please?",
+  "description": "A helpful dictionary tool that helps translate and define what idioms or modern slang means for non-English speakers, inspired by my mom, and the first iteration of this project will be translating English to Mandarin.",
+  "version": "0.2",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+        "resources": ["words.json", "images/*.jpg", "images/*.png", "fonts/*.ttf", "fonts/*.otf"],
+        "matches": ["*://*/*"]
+    }
+  ]
+}

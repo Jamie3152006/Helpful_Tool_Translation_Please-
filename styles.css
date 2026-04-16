@@ -1,0 +1,125 @@
+
+
+.highlight {
+    background-color: yellow;
+    cursor: pointer;
+    border-radius: 2px;
+    padding: 0 2px;
+    transition: background-color 0.2s;
+}
+.highlight:hover {background-color: orange;}
+
+#pop-up {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgb(243,230,197);
+    border: 1px soild #000000;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+    z-index: 99999;
+    min-width: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+}
+
+#pop-up-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.4);
+    z-index: 99998;
+}
+
+#pop-up-close-btn {
+  background-color: #e74c3c;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+#pop-up-close-btn:hover {
+  background-color: #c0392b;
+}
+
+#pop-up-close-btn:active {
+  background-color: #a93226;
+}
+
+#pop-up-word {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 0 8px 0;
+  background-color: rgb(251,236,93, 0.6);
+}
+
+#pop-up-left {
+  width: 50%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#pop-up-right {
+  width: 50%;
+  background-size: cover;
+  padding-top: 47px;
+  background-position: center;
+  position: relative;
+  flex: 1;
+}
+
+@font-face {
+    font-family: "customFont";
+    src: url("fonts/chineseFont2.otf") format("truetype");
+}
+
+#pop-up-mandarin {
+  color: rgb(161, 41, 33);
+  font-family: 'customFont', sans-serif;
+  font-size: 24px;
+  text-align: left;
+  padding-left: 40px;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+}
+
+#pop-up-mandarin-text {
+  color: rgb(0, 0, 0);
+  font-size: 19px;
+  padding-left: 40px;
+  text-align: left;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+}
+
+#pop-up-mandarin,
+#pop-up-mandarin-text {
+  margin: 0;
+  /* margin-top: 0; */
+}
+
+#pop-up-definition {
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+
+#pop-up-icon {
+  position: absolute;
+  top: -15px;
+  right: -58px;
+  width: 228px;
+  height: 98px;
+  padding: 0;
+  margin: 0%;
+  /* opacity: 0.8; */
+  pointer-events: none;
+}

@@ -1,0 +1,110 @@
+{
+    "Cats and Dogs": {
+        "title": "Raining Cats and Dogs",
+        "description": "English Definition: Means it is raining heavily",
+        "mandarin": "定义",
+        "mandarinText": "倾盆大雨, 雨下得非常大，在句子利用：'Wow, it is raining cats and dogs out there, good thing we are taking shelter.'",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "Take a Hike": {
+        "title": "Go take a hike",
+        "description": "English Definition: Means they want you to go away or to stop bothering you",
+        "mandarin": "定义",
+        "mandarinText": "滚开！快点滚！跟别人说不要打扰你了，在句子利用：‘Go take a hike, you are annoying me, leave me alone.'",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "A dime a dozen": {
+        "title": "A dime a dozen",
+        "description": "English Definition: Means it is very common",
+        "mandarin": "定义",
+        "mandarinText": "多得要，没设么特比的，到处都有，在句子利用：‘Books like these are a dime a dozen, there are so many of them.'",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "Bite the bullet": {
+        "title": "Bite the bullet",
+        "description": "English Definition: Means to get something over with",
+        "mandarin": "定义",
+        "mandarinText": "咬紧牙关应付, 你不想做但你勇敢地面对，在句子利用： ‘I hate going to the dentist, but I'll just have to bite the bullet.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+     "High Key": {
+        "title": "High Key",
+        "description": "English Definition: Means to be serious or extremely so",
+        "mandarin": "定义",
+        "mandarinText": "认真或当真，说这句意思是你对什么非常感觉，也可以意思是很明显，在句子利用： ‘I’m high key stressed about this deadline.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "No cap": {
+        "title": "No Cap",
+        "description": "English Definition: Means no lie or telling the truth",
+        "mandarin": "定义",
+        "mandarinText": "不骗你的意思，我在说真的，在句子利用： ‘That was the best movie I’ve ever seen, no cap.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "Rose colored glasses": {
+        "title": "Rose Colored Glasses",
+        "description": "English Definition: Means to be see something in an idealistic or optimistic way, sometimes naively",
+        "mandarin": "定义",
+        "mandarinText": "只看到事物好的方面，过于乐观地看待问题, 在句子利用： ‘She saw the world from rose colored glasses, believing everything was perfect.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "By the skin of your teeth": {
+        "title": "By the Skin of Your Teeth",
+        "description": "English Definition: Means just barely or very narrowly",
+        "mandarin": "定义",
+        "mandarinText": "侥幸成功，勉强完成，在句子利用： ‘I passed the exam by the skin of my teeth after studying all night.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+     "ghosted": {
+        "title": "Ghosted",
+        "description": "English Definition: Means cutting off someone or leaving them out of nowhere with no explaination or warning",
+        "mandarin": "定义",
+        "mandarinText": "玩失踪，你被放鸽子，在句子利用： ‘I was ghosted by my friend out of nowhere, she stopped responding or talking to me.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+     "salty": {
+        "title": "Salty",
+        "description": "English Definition: Means to be upset, annoyed, or petty about something, usually a loss or something small ",
+        "mandarin": "定义",
+        "mandarinText": "有一点生气的感觉，恼恨，对别人感觉酸了，在句子利用： ‘She is just salty that she lost the game.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "glow up": {
+        "title": "Glow Up",
+        "description": "English Definition: Means a big positive transformation in either looks or life ",
+        "mandarin": "定义",
+        "mandarinText": "蜕变，焕发光彩, 突然变了不过是个好事，在句子利用： ‘She had a really big glow up since I last saw her, she looks a lot happier now.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    },
+    "under the weather": {
+        "title": "Under the Weather",
+        "description": "English Definition: Means to not feel good or feeling sick",
+        "mandarin": "定义",
+        "mandarinText": "感觉要生病了;觉得不舒服，在句子利用： ‘She looks a bit under the weather, maybe she is coming down with a cold.’",
+        "color": "#FFFFFF",
+        "image": "images/gridPaper.jpg",
+        "icon": "images/icon.png"
+    }
+}
